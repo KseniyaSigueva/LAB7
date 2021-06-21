@@ -1,0 +1,32 @@
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.exe
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.deps.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\ref\Car.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\ref\Car.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\ref\Car.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\bin\Debug\net5.0\Car.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\ref\Car.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\Car\obj\Debug\net5.0\Car.genruntimeconfig.cache

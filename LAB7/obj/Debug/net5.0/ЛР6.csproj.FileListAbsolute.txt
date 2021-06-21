@@ -1,0 +1,64 @@
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ЛР6.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ЛР6.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ЛР6.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ЛР6.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\bin\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6\obj\Debug\net5.0\ЛР6.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ЛР6.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ЛР6.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ЛР6.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ЛР6.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\bin\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР6 + — копия\obj\Debug\net5.0\ЛР6.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ЛР6.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ЛР6.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ЛР6.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ЛР6.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\bin\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7\obj\Debug\net5.0\ЛР6.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ЛР6.exe
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ЛР6.deps.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ЛР6.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ЛР6.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\bin\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ref\ЛР6.dll
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.pdb
+C:\Users\пользователь\Desktop\Учеба\6й семестр\ТМП\ЛР7 +\obj\Debug\net5.0\ЛР6.genruntimeconfig.cache
